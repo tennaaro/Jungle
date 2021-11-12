@@ -36,6 +36,9 @@ gem 'rmagick'
 gem 'stripe'
 gem 'faker'
 
+# Use sqlite3 as the database for Active Record
+gem 'sqlite3'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
