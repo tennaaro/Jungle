@@ -2,16 +2,26 @@ class User < ActiveRecord::Base
 
   has_secure_password
 
+  # def self.authenticate_with_credentials(email, password)
+  #   User.update_all('email = LOWER(email)')
+  #   if (email)
+  #     user = User.find_by_email(email.strip.downcase)
+  #     if user && user.authenticate(password)
+  #       return user
+  #     else
+  #       return nil
+  #     end
+  #   end
+  # end
+
   def self.authenticate_with_credentials(email, password)
-    User.update_all('email = LOWER(email)')
-    if (email)
-      user = User.find_by_email(email.strip.downcase)
-      if user && user.authenticate(password)
+    users = User.all
+    users.each do |user|
+      if user.email.downcase == email.strip.downcase && user.authenticate(password)
         return user
-      else
-        return nil
       end
     end
+    return nil
   end
 
   validates :password, presence: true
