@@ -21,14 +21,14 @@ RSpec.feature "Visitor navigates to home page", type: :feature, js: true do
     # ACT
     visit root_path
 
-    # page.all(".product header h4")[0].click
-    click_on('Details', :match => :first)
+    # click on add button
+    click_on('Add', :match => :first)
 
-    # check that we moved to new page
-    expect(page).to have_css ".products-show"
+    # check that cart has 1 thing in it now
+    expect(page).to have_content("My Cart (1)")
 
     # DEBUG / VERIFY
-    # save_screenshot
+    save_screenshot
 
   end
 
