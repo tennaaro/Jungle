@@ -21,10 +21,15 @@ RSpec.feature "Visitor navigates to home page", type: :feature, js: true do
     # ACT
     visit root_path
 
-    # DEBUG / VERIFY
-    # save_screenshot
+    # page.all(".product header h4")[0].click
+    click_on('Details', :match => :first)
 
-    expect(page).to have_css 'article.product', count: 10
+    # check that we moved to new page
+    expect(page).to have_css ".products-show"
+
+    # DEBUG / VERIFY
+    save_screenshot
+
   end
 
 end
