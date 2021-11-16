@@ -13,6 +13,7 @@ RSpec.describe Product, type: :model do
     @category = Category.new(:name => "Sports")
     @product = Product.new(:name => nil, :price => 10000, :quantity => 100, :category => @category)
     @product.save
+    expect(@product.errors.full_messages).to include("Name can't be blank")
     expect(@product).not_to be_valid
   end
 
@@ -27,6 +28,7 @@ RSpec.describe Product, type: :model do
     @category = Category.new(:name => "Sports")
     @product = Product.new(:name => "New Name", :price => 10000, :quantity => nil, :category => @category)
     @product.save
+    expect(@product.errors.full_messages).to include("Quantity can't be blank")
     expect(@product).not_to be_valid
   end
 
@@ -34,6 +36,7 @@ RSpec.describe Product, type: :model do
     @category = Category.new(:name => "Sports")
     @product = Product.new(:name => "New Name", :price => 10000, :quantity => 100, :category => nil)
     @product.save
+    expect(@product.errors.full_messages).to include("Category can't be blank")
     expect(@product).not_to be_valid
   end
 end
