@@ -32,6 +32,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * PostgreSQL 9.x
 * Stripe
 
+!["Homepage"]()
+
 ## Homepage
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.43.06%20PM.png?raw=true)
 
@@ -39,3 +41,21 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.45.31%20PM.png?raw=true)
 
 ## Details Page
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.47.19%20PM.png?raw=true)
+
+## Admin Dashboard
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.48.26%20PM.png?raw=true)
+
+## Admin All Products
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.48.45%20PM.png?raw=true)
+
+## Admin Create New Product
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.49.33%20PM.png?raw=true)
+
+## Admin All Categories
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.49.57%20PM.png?raw=true)
+
+## Admin Create New Category
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.50.10%20PM.png?raw=true)
+
+##
