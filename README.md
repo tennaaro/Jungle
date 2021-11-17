@@ -36,4 +36,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.43.06%20PM.png?raw=true)
 
 ## Sold Out Badge
-!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.43.06%20PM.png?raw=true)
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.45.31%20PM.png?raw=true)
+
+## Details Page
