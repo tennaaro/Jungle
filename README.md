@@ -58,11 +58,18 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Admin Create New Category
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.50.10%20PM.png?raw=true)
 
-## Empty Cart Page
-!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.56.23%20PM.png?raw=true)
-
 ## Login Page
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.56.54%20PM.png?raw=true)
 
 ## Signup Page
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.57.07%20PM.png?raw=true)
+
+## Empty Cart Page
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.56.23%20PM.png?raw=true)
+
+## Cart Page
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%206.00.00%20PM.png?raw=true)
+
+## Checkout Pages
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%206.00.14%20PM.png?raw=true)
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%206.00.49%20PM.png?raw=true)
