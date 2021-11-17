@@ -32,8 +32,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * PostgreSQL 9.x
 * Stripe
 
-!["Homepage"]()
-
 ## Homepage
 !["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.43.06%20PM.png?raw=true)
 
