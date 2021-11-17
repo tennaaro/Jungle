@@ -33,4 +33,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Stripe
 
 ## Homepage
-!["Homepage"](https://github.com/tennaaro/scheduler/blob/master/docs/homepage.png?raw=true)
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.43.06%20PM.png?raw=true)
+
+## Sold Out Badge
+!["Homepage"](https://github.com/tennaaro/Jungle/blob/master/docs/Screen%20Shot%202021-11-17%20at%205.43.06%20PM.png?raw=true)
